@@ -1,0 +1,2 @@
+1. The bug is that num1 and num2 are read as strings rather than integers and thus the two values are concatinated together rather than performing interger addition.
+2. To fix the bug, I would cast the strings to their integer representation and then perform addition on the two casted integers.
