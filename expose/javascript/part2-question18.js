@@ -4,4 +4,4 @@ function printTime() {
     console.log(time);
 }
 
-setInterval(printTime, 1000)
+setInterval(printTime, 1000);
